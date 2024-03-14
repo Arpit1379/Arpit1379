@@ -14,7 +14,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&background=000000)
 
-![Custom Chart](https://quickchart.io/chart?c={type:'bar',data:{labels:['January', 'February', 'March'], datasets:[{label:'My Data', data:[10, 20, 30]}]}})
+[![Graph Name](https://yourimagehost.com/path/to/graph_preview.png)](https://yourhost.com/path/to/interactive_graph)
 
 
 ![](https://komarev.com/ghpvc/?username=yourusername&color=green)
