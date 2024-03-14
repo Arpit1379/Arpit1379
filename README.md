@@ -25,6 +25,12 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 
+### 🚀 Quick Links
+
+- [My Portfolio](https://yourwebsite.com)
+- [My Latest Project](https://github.com/yourusername/projectname)
+- [My Blog](https://yourblog.com)
+
 <!---
 Arpit1379/Arpit1379 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
