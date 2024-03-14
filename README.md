@@ -1,4 +1,4 @@
-![Arpit Kalra's GitHub stats](https://github-readme-stats.vercel.app/api?Kalra1379=yourusername&show_icons=true&theme=radical)
+![Arpit Kalra's GitHub stats](https://github-readme-stats.vercel.app/api?Arpit1379=Arpit1379&show_icons=true&theme=radical)
 
 
 ### Languages and Tools:
