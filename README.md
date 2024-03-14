@@ -1,3 +1,11 @@
+## I'm a Developer, Creator, and Lifelong Learner!
+
+- 🔭 I’m currently working on [React Native Applicatio](Project Link)
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2023 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw and play guitar / drums
+
 ![Arpit Kalra's GitHub stats](https://github-readme-stats.vercel.app/api?Arpit1379=Arpit1379&show_icons=true&theme=radical)
 
 
