@@ -14,7 +14,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&background=000000)
 
-[![Arpit's github activity graph](https://activity-graph.herokuapp.com/graph?username=yourusername&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&area=true&hide_border=true)]
+![Custom Chart](https://quickchart.io/chart?c={type:'bar',data:{labels:['January', 'February', 'March'], datasets:[{label:'My Data', data:[10, 20, 30]}]}})
+
 
 ![](https://komarev.com/ghpvc/?username=yourusername&color=green)
 
