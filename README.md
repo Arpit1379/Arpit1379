@@ -17,6 +17,11 @@
 [![Graph Name](https://yourimagehost.com/path/to/graph_preview.png)](https://yourhost.com/path/to/interactive_graph)
 ![Custom Graph](https://yourimagehost.com/path/to/graph.svg)
 
+![Custom Badge](https://img.shields.io/badge/Achievement-100%25-success)
+
+[![Dashboard Preview](static_dashboard_preview_image_url)](https://yourdashboardlink.com)
+
+
 
 
 ![](https://komarev.com/ghpvc/?username=yourusername&color=green)
