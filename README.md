@@ -15,6 +15,8 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&background=000000)
 
 [![Graph Name](https://yourimagehost.com/path/to/graph_preview.png)](https://yourhost.com/path/to/interactive_graph)
+![Custom Graph](https://yourimagehost.com/path/to/graph.svg)
+
 
 
 ![](https://komarev.com/ghpvc/?username=yourusername&color=green)
