@@ -6,12 +6,16 @@
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-- <p align="center">
-  <img src="your-image-url.gif" width="250" title="Intro GIF">
-</p>
 
 ![Arpit Kalra's GitHub stats](https://github-readme-stats.vercel.app/api?Arpit1379=Arpit1379&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&background=000000)
+
+
+![](https://komarev.com/ghpvc/?username=yourusername&color=green)
 
 ### Languages and Tools:
 
