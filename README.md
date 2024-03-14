@@ -14,6 +14,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&background=000000)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yourusername&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ![](https://komarev.com/ghpvc/?username=yourusername&color=green)
 
